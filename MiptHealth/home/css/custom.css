@@ -1,0 +1,22 @@
+.studentAvatar{
+    cursor: pointer;
+}
+
+.studentAvatar:hover{
+    opacity: 0.6;
+}
+
+.user-meta li {
+     padding: 0px 0 !important;
+}
+
+a.logoutLink{
+    font-size: 16px !important;
+    padding: 16px 20px !important;
+}
+
+
+#sessionsListContainer{
+    max-height: 700px;
+    overflow-y: auto;
+}
